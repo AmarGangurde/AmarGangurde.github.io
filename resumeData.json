@@ -1,0 +1,121 @@
+{
+  "main": {
+    "name":"Amarnath Gangurde",
+    "description":"I am a Computer Science graduate who adores coding and delves into AWS, Linux, and Docker.",
+    "image":"amar.jpg",
+    "bio":"I am a Computer Science graduate deeply immersed in coding. My expertise lies in AWS, Linux, and Docker, while i also have passion about full-stack development. I specialize in frontend with React.js and backend with Node.js, I also have good grasp of react native and have develped some applications, weaving together seamless experiences with creativity and precision.",
+    "contactmessage":"Feel free to contact me below.",
+    "email": "amarnathgangurde00@gmail.com",
+    "phone": "7743968900",
+    "github":"https://github.com/AmarGangurde",
+    "project":"https://github.com/AmarGangurde?tab=repositories",
+    "address":{
+      "street":"Sudhakar nagar, satara parisar",
+      "city":"Sambhaji Nagar",
+      "state":"Maharashtra",
+      "zip": "431010"
+    },
+    "website": "http://amar.com",
+    "resumedownload":"http://amar.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://facebook.com",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/amarnath-gangurde-555087293/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/rox._______",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"My language and framework specific skills",
+    "education":[
+      {
+        "school":"Diploma",
+        "degree":"Diploma in Mechnical Engineering",
+        "graduated":"April 2021",
+        "description":"I completed my Mechanical Diploma with a commendable 7.6 CGPA, delving into a plethora of subjects including Theory of Machines (TOM), Strength of Materials (SOM), and many more. "
+      },
+      {
+        "school":"Engineering",
+        "degree":"BTech in Computer science",
+        "graduated":"june 2024",
+        "description":"My passion for Computer Science led me to pursue a B.Tech Engineering degree in the field. Throughout this journey, I delved deep into various domains, including networking, programming languages, cloud computing, and Linux systems. The comprehensive curriculum exposed me to a myriad of concepts and technologies, fostering a rich understanding of computer science fundamentals and honing my skills in both theoretical knowledge and practical application."
+      }
+    ],
+    "work":[
+      {
+        "company":"Yaa Cloud",
+        "title":"Web App",
+        "years":"Major Project",
+        "description":"For my major project, we developed Yaa Cloud, a cloud service similar to AWS. Users could deploy their websites on containers hosted on our platform. This project provided us with hands-on experience in cloud computing, containerization, and web hosting."
+      },
+      {
+        "company":"Hostel Managment App",
+        "title":"React Native App",
+        "years":"Minor Project",
+        "description":"For our minor project, we created a hotel management app specifically designed for our college's girls' hostel using React Native. This app ensured secure handling of all data related to the girls and hostel facilities. It provided a user-friendly interface for managing various aspects of hostel life, enhancing convenience and efficiency for both residents and administrators."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Javascript",
+        "level":"60%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"55%"
+      },
+      {
+        "name":"React Native",
+        "level":"45%"
+      },
+      {
+        "name":"Node js",
+        "level":"50%"
+      },
+      {
+        "name":"Python",
+        "level":"50%"
+      },
+      {
+        "name":"Django",
+        "level":"45%"
+      },
+      {
+        "name":"Linux",
+        "level":"80%"
+      },
+      {
+        "name":"AWS",
+        "level":"75%"
+      },
+      {
+        "name":"Containers",
+        "level":"70%"
+      },
+      {
+        "name":"SQL",
+        "level":"40%"
+      }
+    ]
+  }
+}
